@@ -1,0 +1,47 @@
+body{background-color: rgb(233, 233, 233)}
+div{background-color: rgb(250, 232, 232);}
+div{align-content: center;}
+div {
+    background-color:whitesmoke ;
+    
+    height: 770px;
+    border: 1px  rgb(160, 187, 160);
+    padding: 50px;
+    margin: auto;
+  width: 60%;
+  padding: 10px;
+  border-radius: 20px;
+}
+hr{visibility: hidden;}
+h1{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 180px;
+}
+span{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 180px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 180px;
+}
+.yoyo{font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+  margin-bottom: 550px;
+  margin-right: 150px;
+  margin-left: 185px;
+    background-color:rgb(90, 173, 224);
+    border-radius: 8px;
+    block-size: 60px;
+}
+img{
+    width: 360px;
+    height: 320px;
+    float: right ;
+  border: 1px solid #ccc;
+  
+}
