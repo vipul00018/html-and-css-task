@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(224, 233, 233);
+}
+div{align-content: center;}
+div {
+    background-color: white ;
+    height: 700px;
+    padding: 8px;
+    margin: auto;
+  width: 60%;
+  border-radius: 20px;
+  
+}
+h1{
+    margin-top: 2cm;
+    text-indent: 410px;
+    font-size: 40px;
+}
+p{
+    float: left;
+   size: 80px;
+}
+img{
+  margin: 3px;
+  float: left;
+  width: 400px;
+}
+ .nine{
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+  }
+  input.yoyo{
+    background-color: deepskyblue;
+    color: black;
+    block-size: 60px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+
+  }
+pre{
+  padding: 400px;
+  padding-left: 50px;
+  position: right;
+  color: black;
+} 
+strong{
+  color: black;
+}  
+.yoyo:hover{
+  background-color: crimson;
+}
